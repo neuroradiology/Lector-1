@@ -9,6 +9,7 @@ Currently supports:
 
 ## Requirements
 * Qt5
+* Python >= 3.6
 * PyQt5 
 * python-requests
 * python-beautifulsoup4
